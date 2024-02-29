@@ -21,16 +21,3 @@ This is the documentation for the project which aims to perform a comprehensive 
 5. Set up starter.py with the necessary model name you want to run.
 6. Set up feature_extraction.py, splitting() function with the specific vectorizer you want to use.
 7. In terminal, `run python starter.py`
-
-
-# References not cited in-line
-
-Toxic Comment Classification Challenge | Kaggle (2017). https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data.
-
-Kovács, G., Alonso, P. and Saini, R. (2021) ‘Challenges of Hate Speech Detection in Social Media: Data Scarcity, and Leveraging External Resources’, SN Computer Science, 2(2). Available at: https://doi.org/10.1007/s42979-021-00457-3.
-
-George, J.A. (2022) 'An Introduction to Multi-Label Text Classification - Analytics Vidhya - Medium,' Medium, 30 March. https://medium.com/analytics-vidhya/an-introduction-to-multi-label-text-classification-b1bcb7c7364c.
-
-Galke, L. et al. (2022) ‘Are We Really Making Much Progress in Text Classification? A Com-parative Review’. Available at: http://arxiv.org/abs/2204.03954.
-
-Morales-Hernández, R.C., Juagüey, J.G. and Becerra-Alonso, D. (2022) ‘A Comparison of Multi-Label Text Classification Models in Research Articles Labeled with Sustainable De-velopment Goals’, IEEE Access, 10, pp. 123534–123548. Available at: https://doi.org/10.1109/ACCESS.2022.3223094.
