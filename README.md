@@ -2,7 +2,6 @@
 
 This is the documentation for the project which aims to perform a comprehensive data analysis, using the dataset available from Kaggle, to identify instances of toxic content within various comments on Wikipedia. This task is important for promoting safety and a more inclusive online space for the users.
 
-Author: Eva Pardi (E.Pardi@liverpool.ac.uk)
 
 # Content
 
